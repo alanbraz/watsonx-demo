@@ -1,3 +1,3 @@
 # watsonx-demo
 
-chave temporária `JdD5g5vk7PcZq_udNCrX8RlM2tVhnKyWjJo_X0Ki2az9`
+chave temporária `JrlnC8_NsMW_fWp3nRWNjiUqTDw9IZ-jrzCJVNfbI58Q`
